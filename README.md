@@ -35,7 +35,7 @@ Hello! I'm **Asem Semreen**, a passionate and detail-oriented **Data Analytics p
 ### 🧠 HR Management System (C++)
 A system to streamline employee records and integrate with existing databases.
 
-### 🔐 Loss Prevention Analytics (Client/Server)
+### 🔐 Loss Prevention Analytics
 Database system designed to track inventory and reduce loss using data-driven insights.
 
 ### 🚲 Bike Shop Dashboard (Tableau)
