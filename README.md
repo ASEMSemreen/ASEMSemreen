@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Asem Semreen**, a passionate and detail-oriented **Data Analytics professional** with a background in **Software Engineering**, based in California. I bring analytical thinking and technical skill to every dataset and project I work on.
+Hello! I'm **Asem**, a passionate **Data Analytics professional** with a background in **Software Engineering**, based in California. I bring analytical thinking and technical skill to every dataset and project I work on.
 
 - 📊 Experienced in **Python**, **SQL**, **C++**
 - 📈 Skilled in **Data Visualization** using **Tableau**
@@ -24,9 +24,9 @@ Hello! I'm **Asem Semreen**, a passionate and detail-oriented **Data Analytics p
 ## 🛠️ Technical Skills
 
 **Programming**: Python | SQL | C++  
-**Tools**: GitHub | VS Code | Tableau | SQLite | SQL Server  
+**Tools**: GitHub | VS Code | Tableau | SQLite 
 **Other**: Requirements Gathering | Code Documentation | Query Optimization  
-**Health Info**: Health Information Management | Medical Terminology  
+**Health Classes**: Health Information Management | Medical Terminology  
 
 ---
 
